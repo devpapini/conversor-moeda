@@ -13,6 +13,7 @@ Projeto simples em Python que converte valores entre as moedas: **real**, **dól
   - Real → Dólar / Euro
 - Validação de entrada (moeda e valor)
 - Código limpo com dicionário de taxas
+- Integração com API de câmbio em tempo real
 
 ---
 
@@ -41,6 +42,5 @@ Resultado: 541.00
 
 ##  Próximos passos (em breve)
 
-- Integração com API de câmbio em tempo real
 - Histórico de conversões
 - Interface gráfica (GUI)
